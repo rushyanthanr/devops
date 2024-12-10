@@ -1,0 +1,20 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushyanthanr/devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushyanthanr/devops/issues"
+  },
+  "homepage": "https://github.com/rushyanthanr/devops#readme"
+}
